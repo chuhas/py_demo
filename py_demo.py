@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 my_var_1 = "Hello World!"
 my_var_2 = "Let's"
 my_var_3 = "learn"
